@@ -4,6 +4,7 @@
 
 * 2026-01-13 -- 1.0.0
   * Initial version
-* 2026-02-15 -- 1.0.2
   * Update status data
   * Fix some bugs
+* 2026-01-21 -- 1.0.2
+  * Add unique condition
